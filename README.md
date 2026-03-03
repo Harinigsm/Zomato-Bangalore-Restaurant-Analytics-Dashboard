@@ -49,6 +49,9 @@ The goal of this project is to demonstrate strong data visualization, DAX, and b
 - Data Modeling
 - Interactive Data Visualization
 
+- Author
+S Harini
+
 ---
 
 ## 🧮 Important DAX Measures Used
@@ -61,5 +64,4 @@ Average Rating = AVERAGE('zomato'[Aggregate rating])
 Total Votes = SUM('zomato'[Votes])
 
 Avg Cost for Two = AVERAGE('zomato'[Average Cost for two])
-Author
-S Harini
+
